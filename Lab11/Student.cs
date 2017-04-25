@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab11
 {
-    class Student:Person
+    class Student : Person  // Inherits Person Class
     {
 
         // Declare Variables
