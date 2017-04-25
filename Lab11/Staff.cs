@@ -66,9 +66,9 @@ namespace Lab11
 
 
         // Method
-        public override void toString()
+        public override string ToString()
         {
-            Console.WriteLine(PName + " " + PAddress + " " + School + " " + Pay);
+            return PName + " " + PAddress + " " + School + " " + Pay;
         }
     }
 }

@@ -10,9 +10,7 @@ namespace Lab11
     {
         static void Main(string[] args)
         {
-            Person p = new Person();
 
-            p.toString();
         }
     }
 }

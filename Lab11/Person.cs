@@ -65,6 +65,7 @@ namespace Lab11
         }
 
 
+        // Method
         public override string ToString()
         {
             return Name + " " + Address;
